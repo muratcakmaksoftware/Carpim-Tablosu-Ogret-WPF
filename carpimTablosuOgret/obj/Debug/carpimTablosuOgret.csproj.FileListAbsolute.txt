@@ -1,0 +1,30 @@
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\bin\Debug\carpimTablosuOgret.exe
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\bin\Debug\carpimTablosuOgret.pdb
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\MainWindow.baml
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\MainWindow.g.cs
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\App.g.cs
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\carpimTablosuOgret_MarkupCompile.cache
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\carpimTablosuOgret.g.resources
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\carpimTablosuOgret.Properties.Resources.resources
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\carpimTablosuOgret.csproj.GenerateResource.Cache
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\carpimTablosuOgret.exe
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\carpimTablosuOgret.pdb
+C:\Users\ProgrammerDky\Desktop\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\carpimTablosuOgret.csprojResolveAssemblyReference.cache
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\bin\Debug\Çarpım Taplosu Öğret By Murat Çakmak.exe
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\bin\Debug\Çarpım Taplosu Öğret By Murat Çakmak.pdb
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\mainApp.baml
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\PageAyarlar.baml
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\MainWindow.baml
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\PageMain.baml
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\mainApp.g.cs
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\PageAyarlar.g.cs
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\MainWindow.g.cs
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\PageMain.g.cs
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\App.g.cs
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\Çarpım Taplosu Öğret By Murat Çakmak_MarkupCompile.cache
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\Çarpım Taplosu Öğret By Murat Çakmak.g.resources
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\carpimTablosuOgret.Properties.Resources.resources
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\carpimTablosuOgret.csproj.GenerateResource.Cache
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\Çarpım Taplosu Öğret By Murat Çakmak.exe
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\Çarpım Taplosu Öğret By Murat Çakmak.pdb
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\carpimTablosuOgret\carpimTablosuOgret\obj\Debug\carpimTablosuOgret.csprojResolveAssemblyReference.cache

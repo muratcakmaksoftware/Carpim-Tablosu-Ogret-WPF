@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<Kayitlar>
+  <saniyeler id="0">
+    <saniye>1 Dakika</saniye>
+  </saniyeler>
+  <saniyeler id="1">
+    <saniye>5 Dakika</saniye>
+  </saniyeler>
+  <saniyeler id="2">
+    <saniye>10 Dakika</saniye>
+  </saniyeler>
+  <saniyeler id="3">
+    <saniye>15 Dakika</saniye>
+  </saniyeler>
+  <saniyeler id="4">
+    <saniye>20 Dakika</saniye>
+  </saniyeler>
+  <saniyeler id="5">
+    <saniye>30 Dakika</saniye>
+  </saniyeler>
+  <saniyeler id="6">
+    <saniye>Sınırsız</saniye>
+  </saniyeler>
+  <sorular id="0">
+    <soru>5</soru>
+  </sorular>
+  <sorular id="1">
+    <soru>10</soru>
+  </sorular>
+  <sorular id="2">
+    <soru>15</soru>
+  </sorular>
+  <sorular id="3">
+    <soru>20</soru>
+  </sorular>
+  <sorular id="4">
+    <soru>30</soru>
+  </sorular>
+  <sorular id="5">
+    <soru>40</soru>
+  </sorular>
+  <programKaydi id="0">
+    <saniye>Sınırsız</saniye>
+    <soru>10</soru>
+  </programKaydi>
+</Kayitlar>
